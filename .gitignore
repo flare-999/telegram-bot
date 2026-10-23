@@ -8,7 +8,6 @@ dist/
 
 # Runtime state: the poller's last-seen cursor. The directory is tracked
 # (data/.gitkeep), the state file is not.
-temp_auto_push.bat
 data/*
 !data/.gitkeep
 
